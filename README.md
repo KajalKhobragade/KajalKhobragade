@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kajalkhobr96403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kajalkhobr96403" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kajal khobragade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajal khobragade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kajal-k-bab754167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajal khobragade" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kajal_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kajal_2" height="30" width="40" /></a>
 </p>
 
