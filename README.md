@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **kkhobragade45@gmail.com**
 
-<!- 📄 Know about my experiences [https://drive.google.com/file/d/1FxOZyMLQQ5Y6FObCpfXo_tw85QSBjwb3/view?usp=sharing](https://drive.google.com/file/d/1FxOZyMLQQ5Y6FObCpfXo_tw85QSBjwb3/view?usp=sharing)!>
-
 - ⚡ Fun fact **My goals are never ending!!**
 
 <h3 align="left">Connect with me:</h3>
